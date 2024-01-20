@@ -12,7 +12,6 @@ The Python library for the [Pocket Science Lab](https://pslab.io) from FOSSASIA.
 This repository hosts the Python library for seamless communication with the Pocket Science Lab open hardware platform (PSLab). Through this library, users can interact with PSLab using straightforward Python code. Additionally, the Python library serves as a vital backend component for the PSLab GUI.
 
 PSLab aims to create an Open Source hardware device, open on all layers, alongside software applications tailored for experiments by educators, students, and scientists. The pocket lab provides various measurement tools, including an oscilloscope, waveform generator, logic analyzer, programmable voltage and current source, and a component for controlling robots with up to four servos.
-
 For more information see [https://pslab.io](https://pslab.io).
 
 ## Features 
